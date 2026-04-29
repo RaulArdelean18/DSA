@@ -1,0 +1,1 @@
+g++ -std=c++20 -Wall -Wextra -Wshadow -Wconversion -pedantic -pipe -I../../"TAD Coada"/"Proiect C++" -I../../"TAD Stiva"/"Proiect C++" App.cpp EvaluareExpresie.cpp ../../"TAD Coada"/"Proiect C++"/Coada.cpp ../../"TAD Stiva"/"Proiect C++"/Stiva.cpp -o app
